@@ -1,4 +1,4 @@
-# Hello, I'm Davi Baldissera Nardi
+# Hello, I'm Davi Nardi
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=BN0640"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=BN0640&show_icons=true&include_all_commits=true&count_private=true&title_color=00e7ff&icon_color=00e7ff&text_color=9f9f9f&bg_color=000"/>
     
