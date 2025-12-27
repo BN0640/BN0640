@@ -14,5 +14,4 @@
     <img align="center" alt="BN64-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="BN64-CSS" height="40" width="30"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png">
     <img align="center" alt="BN64-React-Native" height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-    <img align="center" alt="BN64-vue.js" height="30" src="https://static-00.iconduck.com/assets.00/vuejs-original-wordmark-icon-1736x2048-4z2z3y92.png">
 </div>
