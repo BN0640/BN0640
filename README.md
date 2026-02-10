@@ -1,17 +1,25 @@
 # Hello, I'm Davi Nardi
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=BN0640"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=BN0640&show_icons=true&include_all_commits=true&count_private=true&title_color=00e7ff&icon_color=00e7ff&text_color=9f9f9f&bg_color=000"/>
-    
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BN0640&langs_count=10&layout=compact&title_color=00e7ff&text_color=00e7ff&bg_color=000"/>
-    
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=BN0640&theme=black-ice&mode=weekly&background=000000">
-</div>
- 
-<div style="display: inline_block"><br>
-  <a href="https://wakatime.com/@4f1ec930-b5c3-453a-9688-4a16fa384d55"><img src="https://wakatime.com/badge/user/4f1ec930-b5c3-453a-9688-4a16fa384d55.svg" alt="Total time      coded since Mar 15 2023"></a>
-    <img align="center" alt="BN64-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="BN64-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="BN64-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="BN64-CSS" height="40" width="30"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png">
-    <img align="center" alt="BN64-React-Native" height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+<div>
+    <br>
+    <a href="https://www.linkedin.com/in/davi-nardi-231840346">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <br><br>
+    <img align "center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align "center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align "center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align "center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align "center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img align "center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img align "center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align "center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+    <img align "center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img align "center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align "center" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+    <img align "center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img align "center" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
+    <img align "center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img align "center" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">
+    <img align "center" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img align "center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
